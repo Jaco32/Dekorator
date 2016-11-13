@@ -1,0 +1,2 @@
+# Dekorator
+Dekorator - wzorzec projektowy
