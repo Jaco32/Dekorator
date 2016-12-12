@@ -1,4 +1,3 @@
-# Dekorator
 Dekorator - wzorzec projektowy
 
 Poprawiony przykład wzorca projektowego - Dekoratora -  ze strony:
